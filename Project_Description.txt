@@ -1,0 +1,6 @@
+Hybrid Ensemble Learning (ACLR) model for efficient botnet detection in
+IoT systems. It combines ANN, CNN, RNN, and ML algorithms using a
+stacking approach to capture complex traffic patterns. Trained on the
+UNSW-NB15 dataset, the model achieved 96.98% accuracy with strong
+ROC-AUC performance and provides real-time attack prediction through a
+web-based interface.
